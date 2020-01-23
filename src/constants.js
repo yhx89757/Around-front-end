@@ -1,4 +1,3 @@
-
 export const TOKEN_KEY = 'TOKEN_KEY';
 // export const API_ROOT = "https://around-dot-around-179500.appspot.com/api/v1";
 export const API_ROOT = "https://cors-anywhere.herokuapp.com/http://35.188.114.67:8080/";
